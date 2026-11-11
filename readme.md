@@ -42,7 +42,9 @@ RC2HOME has been tested on the DJI RC 2 using a compatible Android PackageInstal
 
 4. No need to install or configure the gesture.apk file as the RC2home launcher has it built in
 
-5. Can be installed alongside the original launcher should you wish
+5. Once the app runs you will need to configure accessibility just swipe the two buttons and accept
+
+6. Can be installed alongside the original launcher should you wish
 
 
 
