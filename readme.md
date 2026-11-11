@@ -27,7 +27,7 @@ Developed and tested on the stock DJI RC 2 firmware.
 
 | Download | Link |
 |---|---|
-| RC2HOME APK | Coming soon — GitHub Releases |
+| RC2HOME APK |[Download RC2HOME](https://github.com/Judslat/RC2HOMEDTversion/releases/latest) |
 
 
 ## Installation
@@ -69,6 +69,22 @@ Project package: `uk.flymyphantom.rc2launcher`
 RC2HOME is an independent community project and is not affiliated with, endorsed by, or sponsored by DJI.
 
 Install and use at your own risk. Back up important files before making changes to your controller.
+
+
+## Screenshots
+
+### RC2HOME Main Screen
+<img width="1920" height="1080" alt="Git1" src="https://github.com/user-attachments/assets/f5877ad0-db06-4439-b376-12963e5122f0" />
+
+
+
+### Application Drawer
+<img width="1920" height="1080" alt="Git3" src="https://github.com/user-attachments/assets/de339a88-9dfa-447f-80cb-3493f8329713" />
+
+
+
+### Wallpaper Gallery
+<img width="1920" height="1080" alt="Git2" src="https://github.com/user-attachments/assets/42185d37-bd44-48d3-984c-e7ad23774644" />
 
 ---
 
