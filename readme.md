@@ -4,7 +4,7 @@
 
 **RC2HOME by FlyMyPhantom**
 
-A lightweight custom Android launcher designed for the DJI RC 2 controller, allowing users to access installed Android applications while retaining access to DJI Fly.
+A lightweight custom Android launcher designed for the DJI RC 2 controller, allowing users to access installed Android applications while retaining access to DJI Fly Drone Tweaks App.
 
 Developed and tested on the stock DJI RC 2 firmware.
 
